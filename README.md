@@ -9,4 +9,6 @@ assignments
 * make a gif
 
 
+**link to my Repo**
+
 https://github.com/winspear01/stats220
