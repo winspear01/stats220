@@ -5,7 +5,7 @@
 
 <h1> This is my first Stats220 Assignment </h1>
 
-*we had to*
+*we had to:*
 
 * make a meme
 * make a gif
