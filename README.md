@@ -9,3 +9,4 @@ assignments
 * make a gif
 
 
+https://github.com/winspear01/stats220
