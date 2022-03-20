@@ -1,4 +1,4 @@
-# stats220
+# STATS220
 assignments
 
 <h1> This is my first Stats220 Assignment </h1>
@@ -9,6 +9,5 @@ assignments
 * make a gif
 
 
-**link to my Repo**
+**link to my Repo:**   https://github.com/winspear01/stats220
 
-https://github.com/winspear01/stats220
